@@ -1,0 +1,44 @@
+[
+	{
+		"cover_url": "http://fdfs.xmcdn.com/group36/M03/3D/AF/wKgJUlouIlrRv8k_AAHJuGrDIgg888.png",
+		"kind": "one_click_listen",
+		"order_num": 18,
+		"channel_name": "名家相声",
+		"channel_id": 401
+	},
+	{
+		"cover_url": "http://fdfs.xmcdn.com/group47/M09/F8/7B/wKgKk1te35SDTq7jAAUmDqFNWxs946.png",
+		"kind": "one_click_listen",
+		"order_num": 23,
+		"channel_name": "搞笑段子",
+		"channel_id": 400
+	},
+	{
+		"cover_url": "http://fdfs.xmcdn.com/group34/M03/AA/3F/wKgJYFnnFrPhzqdIAACMp0jpt8Q734.png",
+		"kind": "one_click_listen",
+		"order_num": 34,
+		"channel_name": "情话电台",
+		"channel_id": 402
+	},
+	{
+		"cover_url": "http://fdfs.xmcdn.com/group36/M06/90/ED/wKgJUlor5gKSQlZ_AAJXU_BIwn8824.png",
+		"kind": "one_click_listen",
+		"order_num": 8,
+		"channel_name": "侃侃历史",
+		"channel_id": 407
+	},
+	{
+		"cover_url": "http://fdfs.xmcdn.com/group36/M08/3D/C2/wKgJUlouIpzgMSd_AAEnX6OBSxc579.png",
+		"kind": "one_click_listen",
+		"order_num": 35,
+		"channel_name": "头条资讯",
+		"channel_id": 406
+	},
+	{
+		"cover_url": "",
+		"kind": "one_click_listen",
+		"order_num": 11,
+		"channel_name": "儿童故事",
+		"channel_id": 431
+	}
+]
